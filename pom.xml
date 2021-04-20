@@ -8,8 +8,6 @@
     <artifactId>#APP</artifactId>
     <version>0.1</version>
     <name>#NAME</name>
-    <description>#DESC</description>
-    <url>github.com</url>
   
     <properties>
              <!-- https://maven.apache.org/general.html#encoding-warning -->
